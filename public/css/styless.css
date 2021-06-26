@@ -1,0 +1,102 @@
+body {
+    font-family: 'Roboto', sans-serif !important;
+    color: black !important;
+    background: rgba(137, 181, 230, 0.50);
+    background-size: 100% 100%;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    font-size: 14px !important;
+    padding: 30px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.wrapper {
+    background: #eeeeee;
+    max-width: 960px;
+    margin: 0 auto;
+    position: relative;
+    -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.order {
+    display: block;
+    padding: 20px 15px;
+    text-align: center;
+}
+#imgAvatar{
+    width: 200px;
+    text-align:center;
+    border-radius: 50px
+}
+#imgPrew{
+    width:200px;
+    text-align:center;
+    border-radius: 50px
+}
+.container > .description { display:none; }
+.container:hover > .description { display: block; }
+#badgeAvatar{
+    text-align: center;
+}
+label {
+    cursor: pointer;
+    /* Style as you please, it will become the visible UI component. */
+}
+
+#upload-photo {
+    opacity: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+@media (max-width: 767px) {
+    #footer h5 {
+        padding-left: 0;
+        border-left: transparent;
+        padding-bottom: 0;
+        margin-bottom: 10px;
+    }
+}
+
+/* Extra small devices (phones, less than 768px) */
+@media (max-width: 767px) {
+    .sidebar-wrapper {
+        position: static;
+        width: inherit;
+    }
+
+    .main-wrapper {
+        padding: 30px;
+    }
+
+    .main-wrapper .time {
+        position: static;
+        display: block;
+        margin-top: 5px;
+    }
+
+    .main-wrapper .upper-row {
+        margin-bottom: 0;
+    }
+}
+
+/* Small devices (tablets, 768px and up) */
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .skillset .level-title {
+        display: inline-block;
+        float: left;
+        width: 30%;
+        margin-bottom: 0;
+    }
+
+    .skillset .level-bar {
+        display: inline-block;
+        width: 70%;
+        float: left;
+        position: relative;
+        top: 1px;
+    }
+}

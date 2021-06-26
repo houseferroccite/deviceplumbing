@@ -1,0 +1,22 @@
+[u][23/Jun/2021:02:38:44 +0300] 0.200 0.200 200 213.180.203.40 deviceplumbing.ru GET /robots.txt HTTP/1.1 "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)" "-" 263 141.8.192.169 a0539115
+[u][23/Jun/2021:02:38:48 +0300] 0.150 0.150 200 5.45.207.169 deviceplumbing.ru GET /password/reset HTTP/1.1 "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)" "-" 2822 141.8.192.169 a0539115
+[u][23/Jun/2021:02:49:34 +0300] 0.300 0.300 200 5.45.207.169 deviceplumbing.ru GET /password/reset HTTP/1.1 "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)" "-" 2833 141.8.192.169 a0539115
+[u][23/Jun/2021:07:00:38 +0300] 0.200 0.200 200 193.160.72.223 deviceplumbing.ru GET /favicon.ico HTTP/1.1 "Go-http-client/1.1" "-" 251 141.8.192.169 a0539115
+[u][23/Jun/2021:07:00:38 +0300] 0.150 0.150 200 85.208.106.207 deviceplumbing.ru GET / HTTP/1.1 "Go-http-client/1.1" "-" 6944 141.8.192.169 a0539115
+[u][23/Jun/2021:07:00:38 +0300] 0.000 0.000 200 84.22.150.186 deviceplumbing.ru GET /favicon.ico HTTP/1.1 "Go-http-client/1.1" "-" 251 141.8.192.169 a0539115
+[u][23/Jun/2021:07:00:38 +0300] 0.150 0.150 200 176.113.42.121 deviceplumbing.ru GET / HTTP/1.1 "Go-http-client/1.1" "-" 6945 141.8.192.169 a0539115
+[u][23/Jun/2021:07:00:39 +0300] 0.100 0.100 200 178.171.53.140 deviceplumbing.ru GET / HTTP/1.1 "Go-http-client/1.1" "-" 6948 141.8.192.169 a0539115
+[u][23/Jun/2021:07:00:40 +0300] 0.001 0.001 200 85.208.106.207 deviceplumbing.ru GET /favicon.ico HTTP/1.1 "Go-http-client/1.1" "-" 251 141.8.192.169 a0539115
+[u][23/Jun/2021:07:00:40 +0300] 0.107 0.106 200 84.22.150.99 deviceplumbing.ru GET / HTTP/1.1 "Go-http-client/1.1" "-" 6945 141.8.192.169 a0539115
+[u][23/Jun/2021:07:00:41 +0300] 0.000 0.000 200 193.160.72.81 deviceplumbing.ru GET /favicon.ico HTTP/1.1 "Go-http-client/1.1" "-" 251 141.8.192.169 a0539115
+[u][23/Jun/2021:09:31:21 +0300] 0.300 0.300 200 34.222.107.125 deviceplumbing.ru GET / HTTP/1.1 "Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36" "-" 6945 141.8.192.169 a0539115
+[u][23/Jun/2021:09:31:23 +0300] 0.100 0.100 200 34.222.107.125 deviceplumbing.ru GET / HTTP/1.1 "Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36" "-" 6946 141.8.192.169 a0539115
+[u][23/Jun/2021:09:56:20 +0300] 0.149 0.200 200 54.36.149.56 www.deviceplumbing.ru GET /robots.txt HTTP/1.1 "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)" "-" 263 141.8.192.169 a0539115
+[u][23/Jun/2021:09:56:21 +0300] 0.100 0.100 200 54.36.148.123 www.deviceplumbing.ru GET / HTTP/1.1 "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)" "-" 6954 141.8.192.169 a0539115
+[u][23/Jun/2021:13:35:32 +0300] 0.149 0.150 200 54.36.149.68 www.deviceplumbing.ru GET /robots.txt HTTP/2.0 "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)" "-" 159 141.8.192.169 a0539115
+[u][23/Jun/2021:13:35:33 +0300] 0.100 0.100 200 54.36.148.48 www.deviceplumbing.ru GET / HTTP/2.0 "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)" "-" 6634 141.8.192.169 a0539115
+[u][23/Jun/2021:16:59:05 +0300] 0.150 0.150 200 54.36.148.143 deviceplumbing.ru GET /robots.txt HTTP/2.0 "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)" "-" 159 141.8.192.169 a0539115
+[u][23/Jun/2021:16:59:06 +0300] 0.150 0.150 200 54.36.148.154 deviceplumbing.ru GET / HTTP/2.0 "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)" "-" 6627 141.8.192.169 a0539115
+[u][23/Jun/2021:19:10:07 +0300] 0.250 0.300 200 109.191.154.45 deviceplumbing.ru GET / HTTP/2.0 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 YaBrowser/21.5.3.740 Yowser/2.5 Safari/537.36" "-" 6628 141.8.192.169 a0539115
+[u][23/Jun/2021:19:10:38 +0300] 0.000 0.000 200 5.255.231.98 deviceplumbing.ru GET /robots.txt HTTP/1.1 "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)" "-" 263 141.8.192.169 a0539115
+[u][23/Jun/2021:19:10:42 +0300] 0.100 0.100 200 213.180.203.70 deviceplumbing.ru GET / HTTP/1.1 "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)" "-" 6944 141.8.192.169 a0539115

@@ -1,0 +1,246 @@
+body {
+    font-family: 'Roboto', sans-serif !important;
+    color: black !important;
+    background: rgba(137, 181, 230, 0.50);
+    background-size: 100% 100%;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    background: url("bg1.jpg") !important;
+    font-size: 14px !important;
+    padding: 30px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.wrapper {
+    background: #eeeeee;
+    max-width: 960px;
+    margin: 0 auto;
+    position: relative;
+    -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.bg-white {
+    background-color: #f8f9fa!important;
+}
+.carousel-inner {
+    height: 20%;
+}
+.carousel-caption{
+    color: black;
+    text-align: center;
+}
+.starter-template {
+    padding: 20px 15px;
+    text-align: center;
+}
+#inputGroup{
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+#imgAvatar{
+    width: 200px;
+    text-align:center;
+    border-radius: 50px
+}
+
+#badgeAvatar{
+    text-align: center;
+}
+/*Product*/
+#Product, #basket,
+#titleProduct {
+    background: whitesmoke;
+}
+#isAdm{
+    color:black;
+    font-weight: bold;
+}
+/*News*/
+#News,
+#titleNews {
+    background: #eeeeee;
+}
+
+#titleSubscribe,
+#subscribe {
+    background: #eeeeee;
+}
+#stoim{
+    margin: 5px 20px;
+}
+.bt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn {
+    width: 100%;
+}
+.order {
+    display: block;
+    padding: 20px 15px;
+    text-align: center;
+}
+
+/*Footer*/
+.page-footer {
+    background: #eeeeee !important;
+}
+.portfolio-item {     /* Отступы между карточками class="card" */
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+.card-body {
+    text-align: center !important;
+}
+div.labels {
+    position: absolute;
+}
+
+div.labels span.badge {
+    display: block;
+}
+
+span.badge.badge-success {
+    color: #fff;
+    background-color: #28a745;
+}
+
+span.badge.badge-warning {
+    color: #fff;
+    background-color: #dc3545;
+}
+
+span.badge.badge-danger {
+    color: #212529;
+    background-color: #ffc107;
+}
+div.filters {
+    padding-bottom: 5px;
+}
+#basketCard {
+    max-width: 50px;
+    max-height: 50px;
+    margin: 5px;
+}
+
+#imgCardd{
+    text-align: center !important;
+}
+
+.social {
+    -webkit-transform: scale(0.8);
+    /* Browser Variations: */
+    -moz-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+}
+
+.social:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+#fb-ic {
+    color: black;
+}
+
+#tw-ic {
+    color: black;
+}
+
+#ins-ic {
+    color: black;
+}
+
+#pin-wh {
+    color: black;
+}
+
+/*
+    Multicoloured Hover Variations
+*/
+#fb-ic:hover {
+    color: #3B5998;
+}
+
+#tw-ic:hover {
+    color: #4099FF;
+}
+
+#ins-ic:hover {
+    color: #d34836;
+}
+
+#pin-wh:hover {
+    color: green;
+}
+
+@media (max-width: 767px) {
+    #footer h5 {
+        padding-left: 0;
+        border-left: transparent;
+        padding-bottom: 0;
+        margin-bottom: 10px;
+    }
+}
+
+/* Extra small devices (phones, less than 768px) */
+@media (max-width: 767px) {
+    .sidebar-wrapper {
+        position: static;
+        width: inherit;
+    }
+
+    .main-wrapper {
+        padding: 30px;
+    }
+
+    .main-wrapper .time {
+        position: static;
+        display: block;
+        margin-top: 5px;
+    }
+
+    .main-wrapper .upper-row {
+        margin-bottom: 0;
+    }
+}
+
+/* Small devices (tablets, 768px and up) */
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .skillset .level-title {
+        display: inline-block;
+        float: left;
+        width: 30%;
+        margin-bottom: 0;
+    }
+
+    .skillset .level-bar {
+        display: inline-block;
+        width: 70%;
+        float: left;
+        position: relative;
+        top: 1px;
+    }
+}
